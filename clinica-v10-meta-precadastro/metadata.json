@@ -1,0 +1,6 @@
+{
+  "name": "Atendente Virtual WhatsApp Clínica - IA Gemini",
+  "description": "Sistema completo para clínicas com Atendente Virtual WhatsApp IA (Gemini), Orçamento de Consultas & Exames Laboratoriais, Prontuário de Pacientes, Lembretes Automáticos D-1 no WhatsApp, Agenda e Dashboard Financeiro.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
